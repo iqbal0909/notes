@@ -11,22 +11,45 @@ assets/
   
 config/
   routes/
+    ie using fluro package: routes.dart, routes_config.dart, routes_handler.dart
   themes/
+    light_thenme.dart, dark_theme.dart, theme_config.dart
   
 constants/
+  #static throughoout the applications
+  api_path.dart
+    -when using REST API service, sotre all the API endpoints
+  asset_path.dart
+  app_constatnts.dart
 
 widgets/
-
+ #customised widgets
+ widget.dart
+ 
 utils/
   helpers/
+    #repeating codes ie convert every word first character to uppercase.
+    ie text_helper.dart for codes that required to help Text widgets
   
   services/
+    # All sevices will be singleton classes
   
   utils/
+    # All the common UI related things 
   
   mixins/
   
   core/
+    #only shown after instal app, rarely
+    auth/
+      forgot_password/
+      login/
+      register/
+    setting/
+    walk_through/
+    
+    
+      
   
   
   
