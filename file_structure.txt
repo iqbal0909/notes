@@ -1,0 +1,38 @@
+https://medium.com/flutter-community/flutter-scalable-folder-files-structure-8f860faafebd#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImMzMTA0YzY4OGMxNWU2YjhlNThlNjdhMzI4NzgwOTUyYjIxNzQwMTciLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MzIxMDk2NzAsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwNjUzODA4OTE2ODcyNjMwNTM1MSIsImVtYWlsIjoiaXFiYWwuYTA5MDlAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWUsImF6cCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsIm5hbWUiOiJJcWJhbCBBeml6IiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdpNzlIWFlJSHlEMDhRTjB3d2Q3NzFJeVFGQzdpZk9mVG96ZHlJLT1zOTYtYyIsImdpdmVuX25hbWUiOiJJcWJhbCIsImZhbWlseV9uYW1lIjoiQXppeiIsImlhdCI6MTYzMjEwOTk3MCwiZXhwIjoxNjMyMTEzNTcwLCJqdGkiOiIwMjY2YzljN2NmNzhlM2VkNTZmYzFmMGFlNTkyMDNjMDkwYmUyMDMzIn0.zIL2bQiyUWl9vCqWv4vFYWpPdyVQuyZoIC4fDy9JT3XYI8-MXoDl_LdKdgQa9weboAzQQ70nwx1HLfKwtHKpaYGxJRcNZBQ4fovbcw5iLa4noSlsh-PkncfRyeqpc426ufprQs1Q94lNx3MRgs308C0IYBTObPYLG7ZtNfZWy_rm58sQtbiOzodZ0T1xGCiS3vkR75WU6bFbN5d0qA0K71g6GFUXe-owcEoAtNoZzNmXOR5GpP2H_HLhKro220TNN4y0G-cJf_7aQgNYb1oZaYX5DMLZQ4QC-GnytsniwMzPSKGnJYsGBa-iBkAIGWXIcBCMu5i7AU2lN3KIbvizuA
+
+assets/
+  fonts/
+    -contain custom fonts ie .ttf
+  html/
+    -.html files
+  il8n/
+    - ie .json   language translation files
+  images/
+  
+config/
+  routes/
+  themes/
+  
+constants/
+
+widgets/
+
+utils/
+  helpers/
+  
+  services/
+  
+  utils/
+  
+  mixins/
+  
+  core/
+  
+  
+  
+  
+
+
+  
+  
+  
